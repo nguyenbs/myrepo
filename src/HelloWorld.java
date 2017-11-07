@@ -3,4 +3,8 @@ public class HelloWorld {
         System.out.print("Hello world");
     }
 
+
+  public String getHelloString(){
+    return "Hello World";
+  }
 }
